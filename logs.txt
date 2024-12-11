@@ -1,0 +1,269 @@
+LogID: 1, Date: Tue Dec 10 16:08:13 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 16:08:13 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 16:08:13 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 16:08:13 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 1, Date: Tue Dec 10 16:35:11 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=20, totalTickets=10, totalReleaseRate=5, customerRetrievalRate=5}
+LogID: 2, Date: Tue Dec 10 16:35:11 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 16:35:11 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 16:35:11 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 1, Date: Tue Dec 10 16:37:53 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=2, customerRetrievalRate=2}
+LogID: 2, Date: Tue Dec 10 16:37:53 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 16:37:53 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 16:37:53 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 1, Date: Tue Dec 10 17:06:52 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=20, totalTickets=10, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 17:06:52 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 17:06:52 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 17:06:52 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 1, Date: Tue Dec 10 18:49:32 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=4, customerRetrievalRate=2}
+LogID: 2, Date: Tue Dec 10 18:49:32 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 18:49:32 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 18:49:32 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 18:49:33 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 18:49:33 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 18:49:33 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 18:49:33 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 18:49:33 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 18:49:33 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 1, Date: Tue Dec 10 20:01:31 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=3, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:01:31 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 20:01:31 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 20:01:31 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 1, Date: Tue Dec 10 20:04:21 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=2, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:04:21 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 20:04:21 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 20:04:21 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 20, Date: Tue Dec 10 20:04:26 IST 2024, Message: Simulation completed
+LogID: 1, Date: Tue Dec 10 20:06:29 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=5, totalTickets=2, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:06:29 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:06:29 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 10, Date: Tue Dec 10 20:06:29 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 1, Date: Tue Dec 10 20:07:53 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=5, totalTickets=2, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:07:53 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:07:53 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 1, Date: Tue Dec 10 20:08:50 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=5, totalTickets=2, totalReleaseRate=2, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:08:50 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:08:50 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:08:50 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:08:50 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:08:50 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:08:50 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 20:08:50 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:08:50 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:08:50 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:08:50 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:08:50 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 1, Date: Tue Dec 10 20:10:24 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=5, totalTickets=2, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:10:24 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:10:24 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 1, Date: Tue Dec 10 20:12:19 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=5, totalTickets=2, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:12:19 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:12:19 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 10, Date: Tue Dec 10 20:12:19 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 20, Date: Tue Dec 10 20:12:19 IST 2024, Message: Simulation completed
+LogID: 1, Date: Tue Dec 10 20:12:53 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=5, totalTickets=2, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:12:53 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 8, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-5
+LogID: 9, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-6
+LogID: 10, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-7
+LogID: 11, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-8
+LogID: 12, Date: Tue Dec 10 20:12:53 IST 2024, Message: Vendor thread started: Vendor ID-9
+LogID: 10, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 15, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-5
+LogID: 16, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-6
+LogID: 17, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-7
+LogID: 18, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-8
+LogID: 19, Date: Tue Dec 10 20:12:53 IST 2024, Message: Customer thread started: Customer ID-9
+LogID: 20, Date: Tue Dec 10 20:12:53 IST 2024, Message: Simulation completed
+LogID: 1, Date: Tue Dec 10 20:18:33 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:18:33 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:18:33 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:18:33 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:18:33 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:18:33 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:18:33 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 20:18:33 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:18:33 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:18:33 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:18:33 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:18:33 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 20, Date: Tue Dec 10 20:18:43 IST 2024, Message: Simulation completed
+LogID: 1, Date: Tue Dec 10 20:38:08 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:38:08 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:38:08 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:38:08 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:38:08 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:38:08 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:38:08 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 20:38:08 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:38:08 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:38:08 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:38:08 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:38:08 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 1, Date: Tue Dec 10 20:41:40 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:41:40 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:41:40 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:41:40 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:41:40 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:41:40 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:41:40 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 20:41:40 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:41:40 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:41:40 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:41:40 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:41:40 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 1, Date: Tue Dec 10 20:42:42 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:42:42 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:42:42 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:42:42 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:42:42 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:42:42 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:42:42 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 20:42:42 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:42:42 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:42:42 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:42:42 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:42:42 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 1, Date: Tue Dec 10 20:45:26 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 20:45:26 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 20:45:26 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 20:45:26 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 20:45:26 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 20:45:26 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 20:45:26 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 20:45:26 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 20:45:26 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 20:45:26 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 20:45:26 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 20:45:26 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 20, Date: Tue Dec 10 20:45:35 IST 2024, Message: Simulation completed
+LogID: 1, Date: Tue Dec 10 22:38:21 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 22:38:21 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 22:38:21 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 22:38:21 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 22:38:21 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 22:38:21 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 22:38:21 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 22:38:21 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 22:38:21 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 22:38:21 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 22:38:21 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 22:38:21 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 20, Date: Tue Dec 10 22:38:28 IST 2024, Message: Simulation completed
+LogID: 1, Date: Tue Dec 10 22:42:00 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=1, customerRetrievalRate=1}
+LogID: 2, Date: Tue Dec 10 22:42:00 IST 2024, Message: Simulation started
+LogID: 3, Date: Tue Dec 10 22:42:00 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Tue Dec 10 22:42:00 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Tue Dec 10 22:42:00 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Tue Dec 10 22:42:00 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Tue Dec 10 22:42:00 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Tue Dec 10 22:42:00 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Tue Dec 10 22:42:00 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Tue Dec 10 22:42:00 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Tue Dec 10 22:42:00 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Tue Dec 10 22:42:00 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 1, Date: Wed Dec 11 20:57:54 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=2, customerRetrievalRate=2}
+LogID: 2, Date: Wed Dec 11 20:57:54 IST 2024, Message: Simulation started
+LogID: 3, Date: Wed Dec 11 20:57:54 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Wed Dec 11 20:57:54 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Wed Dec 11 20:57:54 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Wed Dec 11 20:57:54 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Wed Dec 11 20:57:54 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Wed Dec 11 20:57:54 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Wed Dec 11 20:57:54 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Wed Dec 11 20:57:54 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Wed Dec 11 20:57:54 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Wed Dec 11 20:57:54 IST 2024, Message: Customer thread started: Customer ID-4
+LogID: 20, Date: Wed Dec 11 20:58:12 IST 2024, Message: Simulation completed
+LogID: 1, Date: Wed Dec 11 20:59:15 IST 2024, Message: Configuration parameters set: Configuration{maxCapacity=10, totalTickets=5, totalReleaseRate=5, customerRetrievalRate=5}
+LogID: 2, Date: Wed Dec 11 20:59:15 IST 2024, Message: Simulation started
+LogID: 3, Date: Wed Dec 11 20:59:15 IST 2024, Message: Vendor thread started: Vendor ID-0
+LogID: 4, Date: Wed Dec 11 20:59:15 IST 2024, Message: Vendor thread started: Vendor ID-1
+LogID: 5, Date: Wed Dec 11 20:59:15 IST 2024, Message: Vendor thread started: Vendor ID-2
+LogID: 6, Date: Wed Dec 11 20:59:15 IST 2024, Message: Vendor thread started: Vendor ID-3
+LogID: 7, Date: Wed Dec 11 20:59:15 IST 2024, Message: Vendor thread started: Vendor ID-4
+LogID: 10, Date: Wed Dec 11 20:59:15 IST 2024, Message: Customer thread started: Customer ID-0
+LogID: 11, Date: Wed Dec 11 20:59:15 IST 2024, Message: Customer thread started: Customer ID-1
+LogID: 12, Date: Wed Dec 11 20:59:15 IST 2024, Message: Customer thread started: Customer ID-2
+LogID: 13, Date: Wed Dec 11 20:59:15 IST 2024, Message: Customer thread started: Customer ID-3
+LogID: 14, Date: Wed Dec 11 20:59:15 IST 2024, Message: Customer thread started: Customer ID-4
